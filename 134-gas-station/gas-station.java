@@ -10,6 +10,6 @@ class Solution {
                 tank=0;
             }
         }
-        return total<0 ? -1:start;
+        return total<0?-1:start;
     }
 }
